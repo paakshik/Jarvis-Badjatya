@@ -1,2 +1,2 @@
-# Jarvis-Badjatya
-It is my personal project  for my future use.
+# p5.play-boilerplate
+Boiler plate for p5.play
